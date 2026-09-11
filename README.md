@@ -1,4 +1,4 @@
-<img width="1212" height="699" alt="Screenshot 2026-09-12 021612" src="https://github.com/user-attachments/assets/e5070953-e96b-40c9-b5c5-57391ea6a431" />This repository contains an interactive Pizza Sales Dashboard built using Power BI by Kim Louis Alfatah.
+This repository contains an interactive Pizza Sales Dashboard built using Power BI by Kim Louis Alfatah.
 It provides deep insights into Isolab Sales, demand, trend analysis, model evaluation, and recommendations through Power BI visuals and R Studios Forecasting.
 <img width="1210" height="696" alt="Screenshot 2026-09-12 021438" src="https://github.com/user-attachments/assets/e21e42d3-6f2d-4ef3-b0a7-23ffa9595b3c" />
 <img width="1207" height="696" alt="Screenshot 2026-09-12 021601" src="https://github.com/user-attachments/assets/b75d1f75-ed6a-47dc-875f-9fd2b1a8d591" />
